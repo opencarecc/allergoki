@@ -3,8 +3,8 @@ layout: default
 title: About Allergo Kì by opencare.cc
 ---
 
-# About page
-### Lo sai che molte persone scoprono in età adulta di avere un’allergia o un’intolleranza alimentare?
+# Allergo Kì
+## Lo sai che molte persone scoprono in età adulta di avere un’allergia o un’intolleranza alimentare?
 #### Sono costrette a dover cambiare le proprie abitudini alimentari e ciò rappresenta per loro un evento traumatico.
 
 Molto spesso, rinunciano ai pasti “fuori casa” perché sono tenute ad elencare oralmente al cameriere una serie di informazioni legate al proprio stato di salute e ciò risulta alquanto imbarazzante. Successivamente il cameriere deve trasmettere queste informazioni allo staff della cucina, creando molte volte incomprensioni, fraintendimenti e/o omissioni.
