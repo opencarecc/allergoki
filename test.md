@@ -1,4 +1,4 @@
-# InPe' @ opencare.cc
+# Allergoki' @ opencare.cc
 InPe' is a wearable device that detects fall and call for emergecy.
 
 InPe' has been ideated and designed by communities living in the city of Milan (Italy), and developed by [WeMake](http://wemake.cc/) in the framework of the [opencare.cc](http://opencare.cc/) project.
