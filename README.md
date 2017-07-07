@@ -1,28 +1,23 @@
-# InPe' @ opencare.cc
-InPe' is a wearable device that detects fall and call for emergecy.
+# Allergo Kì @ opencare.cc
+Allergo Kì is a communication project for people with food allergies and restaurants.
 
-InPe' has been ideated and designed by communities living in the city of Milan (Italy), and developed by [WeMake](http://wemake.cc/) in the framework of the [opencare.cc](http://opencare.cc/) project.
+Allergo Kì has been ideated and designed by communities living in the city of Milan (Italy), and developed by [WeMake](http://wemake.cc/) in the framework of the [opencare.cc](http://opencare.cc/) project.
 
-InPe' is open source. Please read below for licensing details.
+Allergo Kì is open source. Please read below for licensing details.
 
 ## References
 * More info about the opencare.cc project can be found here <http://opencare.cc>
-* More info about the InPe' prototype can be found here <http://inpe.opencare.cc>
-* Tutorials about InPe' can be found here <https://github.com/opencarecc/inpe/wiki>
+* More info about the Allergo Kì prototype can be found here <http://allergoki.opencare.cc>
+* Tutorials about Allergo Kì can be found here <https://github.com/opencarecc/allergoki/wiki>
 
 ## Software
-The InPe' prototype is built on top of the *RePhone* hardware by Seeed Studio.
-More info on how to get started with the RePhone and the RePhone development environment can be found in the wiki section of the repo <https://github.com/opencarecc/inpe/wiki>
-
-In the **software** folder of the repository are various Arduino *.ino* sketches, all of them can be ran by the RePhone hardware:
-* in the **software** root folder are the updated main sketches of the InPe' prototype (the "InPe-T\*" versions have been implemented for the user testing campaign)
-* in the **utilities** folder is a collection of sketches to test, calibrate and debug the hardware. They are useful to setup and customize an InPe', and for developers willing to contribute to the project to learn more about the library.
+In the hardware section of the repository are the source files for the case *[coming soon...]*
 
 ## Hardware
 In the hardware section of the repository are the source files for the case *[coming soon...]*
 
 ## Bug reporting and Contributions
-If you want to report a bug please do so in the *[Issues](https://github.com/opencarecc/inpe/issues)* section of the repository (<https://github.com/opencarecc/inpe/issues>) and mark it with a *BUG* label. Before adding a bug please do a quick search under the *BUG* label to check for known issues and avoid duplicates.
+If you want to report a bug please do so in the *[Issues](https://github.com/opencarecc/allergoki/issues)* section of the repository (<https://github.com/opencarecc/allergoki/issues>) and mark it with a *BUG* label. Before adding a bug please do a quick search under the *BUG* label to check for known issues and avoid duplicates.
 
 If you want to contribute please have a look under the *TO DO* and *WISH* labels to see what features are in the pipeline and what is the status of their development.
 
@@ -30,7 +25,7 @@ If you want to contribute with a new feature please open a new issue under the *
 
 ## License
 
-Copyright (C) 2016 WeMake
+Copyright (C) 2017 WeMake
 
 ###Software
 
@@ -43,7 +38,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 ###Hardware
 
-Copyright 2016 WeMake.
+Copyright 2017 WeMake.
 
 This documentation describes an Open Hardware and is licensed under the CERN OHL v. 1.2.
 
@@ -53,8 +48,8 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLU
 
 ##Contacts
 
-You can get in touch with us on the InPe' [website](http://inpe.opencare.cc/#comments) or by writing at: 
-opencare [@] wemake [dot] cc
+You can get in touch with us on the Allergo Kì [website](http://allergoki.opencare.cc/#comments) or by writing at: 
+ allergokistaff [@] wemake [dot] cc
 
 
 -----
