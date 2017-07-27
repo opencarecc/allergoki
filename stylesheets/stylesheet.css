@@ -9,17 +9,18 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; 
+  background-color: #fbfbfb;
 }
 
 a {
   cursor: pointer;
-  color: #ffc72c;
+  color: #ffc62b;
   text-decoration: none;
   padding-bottom: .15rem;
   transition: all .3s;
 }
 a:hover {
-  border-bottom: 1px solid #602480;
+  border-bottom: 1px solid #ffc62b;
 }
 
 ul {
