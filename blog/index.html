@@ -1,6 +1,6 @@
 ---
 layout: default
-title: All the News about Allergo Kì
+title: Allergo Kì News
 ---
 
 	<h1 style="float:left;">{{ page.title }}</h1>
@@ -11,7 +11,7 @@ title: All the News about Allergo Kì
         <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><h3>› {{ post.title }}</h3></a>
         <p class="postdate">{{ post.date | date_to_string }}</p> 
         {{ post.excerpt }}
-        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">Read more...</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">Continua a leggere »</a>
       </li>
 	  {% endfor %}
 	</ul>
@@ -19,15 +19,15 @@ title: All the News about Allergo Kì
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">« Previous</a>
+      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">« Precedente</a>
     {% endif %}
 
     {% if paginator.total_pages > 1 %}
-      <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      <span class="page_number ">Pagina {{ paginator.page }} di {{ paginator.total_pages }}</span>
     {% endif %}
     
     {% if paginator.next_page %}
-      <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next »</a>
+      <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Successivo »</a>
     {% endif %}
   </div>
 

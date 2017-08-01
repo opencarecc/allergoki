@@ -9,17 +9,19 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; 
+  background-color: #fbfbfb;
 }
 
 a {
   cursor: pointer;
-  color: #602480;
+  color: #ffc62b;
   text-decoration: none;
   padding-bottom: .15rem;
   transition: all .3s;
+  font-weight: bold;
 }
 a:hover {
-  border-bottom: 1px solid #602480;
+  border-bottom: 2px dotted #ffc62b;
 }
 
 ul {
@@ -54,6 +56,7 @@ nav li {
 nav li a {
   display: block;
   cursor: pointer;
+  color: #000;
 }
 
 nav img {
@@ -104,7 +107,7 @@ nav img {
 .page-header {
   color: #fff;
   text-align: center;
-  background: url(/allergoki/assets/allergoki_header.jpg) no-repeat fixed center, linear-gradient(120deg, #2da9de, #602480);
+  background: url('https://raw.githubusercontent.com/opencarecc/allergoki/gh-pages/img/allergoki_header.jpg') no-repeat fixed center/* , linear-gradient(120deg, #2da9de, #602480) */;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
