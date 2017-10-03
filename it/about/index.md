@@ -3,10 +3,8 @@ layout: default
 title: About
 published: true
 ref: about
-lang: en
+lang: it
 ---
-
-THIS PAGE NEEDS TRANSLATION
 
 # Allergo Kì
 ## Lo sai che molte persone scoprono in età adulta di avere un’allergia o un’intolleranza alimentare?
