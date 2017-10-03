@@ -1,9 +1,24 @@
-name: Allergo Kì by opencare
+name: Allergo Kì
+author: WeMake
 markdown: kramdown
 baseurl: 
-permalink: /blog/:year/:month/:day/:title/
-gems:
+permalink: blog/:year/:month/:day/:title/
+plugins:
   - jekyll-sitemap
-  - jekyll-paginate
-paginate: 10
-paginate_path: /blog/page:num/
+  # - jekyll-paginate
+# paginate: 10
+# paginate_path: /blog/page:num/
+exclude: [README.md]
+github: [metadata]
+
+title: "Allergo Kì by opencarecc"
+tagline: "lorem ipsum"
+
+# multilingual stuff
+index:
+  en:
+  it: it/index.html
+
+default_lang: "en"
+
+
