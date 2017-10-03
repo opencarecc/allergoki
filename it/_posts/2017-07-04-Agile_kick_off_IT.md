@@ -8,11 +8,9 @@ categories: news
 by: WeMake
 published: true
 excerpt: lorem ipsum
-lang: en
+lang: it
 ref: agile-kick-off-at-wemake
 ---
-
-THIS CONTENT NEEDS TO BE TRANSLATED
 
 # ALLERGO KÌ MANIFESTO
 
