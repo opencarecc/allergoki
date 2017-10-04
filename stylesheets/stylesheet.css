@@ -61,7 +61,7 @@ header {
   transition: box-shadow 0s;
 }
 header h1 {
-  max-width: 6rem;
+  max-width: 7rem;
   font-size: 1.45rem;
   text-align: left;
   color: #159957;
