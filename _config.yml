@@ -1,7 +1,7 @@
 name: Allergo Kì
 author: WeMake
 markdown: kramdown
-baseurl: 
+baseurl:
 permalink: blog/:year/:month/:day/:title/
 plugins:
   - jekyll-sitemap
@@ -21,4 +21,18 @@ index:
 
 default_lang: "en"
 
+# Facebook OpenGraph stuff
+opengraph:
+  title: "Allergo Kì by opencarecc"
+  url: "http://allergoki.opencare.cc/"
+  description: "This is the description of the allergoki project"
+  image_url: "http://opencarecc.github.io/allergoki/assets/OC-Logo-socials.png"
 
+# Twitter Card stuff
+twitter:
+  site: "Allergo Kì by opencarecc"
+  title: "Allergo Kì by opencarecc"
+  description: "This is the description of the allergoki project"
+  creator: "opencarecc"
+  domain: "http://allergoki.opencare.cc/"
+  image_url: "http://opencarecc.github.io/allergoki/assets/OC-Logo-socials.png"
