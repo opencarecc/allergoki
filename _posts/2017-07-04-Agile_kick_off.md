@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "AllergoKi | AGILE kick off at WeMake"
-date: 2017-05-23
 subtitle: lorem ipsum
-image: /rehub/assets/RH-post-img-application.jpg
-categories: news
+date: 2017-05-23 10:13:04 +0200
+image: "https://opencarecc.github.io/breathinggames/assets/RH-post-img-application.jpg"
+categories: ["news"]
 by: WeMake
 published: true
 excerpt: lorem ipsum
@@ -38,7 +38,7 @@ The AllergoKi is an integrated communication project to help people with food al
 
 Our project, providing visual media, wants to create a channel for effective communication between restaurateurs and people with food allergies.
 
-## 
+##
 
 03_The Not list
 
@@ -65,6 +65,6 @@ Image uploaded from iOS (6).jpg2500x1875 248 KB
 # 3 Restaurateurs not interested in the project
 
 Image uploaded from iOS (7).jpg2500x1875 225 KB
-06_Size it up (time planning) 
+06_Size it up (time planning)
 
-IMG_20170704_155033.jpg2500x1404 203 
+IMG_20170704_155033.jpg2500x1404 203

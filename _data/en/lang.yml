@@ -31,8 +31,8 @@ header:
 # dictionary keys for description.html include file
 description: "<h3>Acknowledgements</h3>
     <p>
-      This website illustrates the experience and the progress of <b>Allergo Kì</b> within the <b>opencare Maker in Residence</b>,
-    which takes place in WeMake.</b>
+      This website illustrates the experience and the progress of <b>Breathing Games</b> within the <b>opencare Maker in Residence</b>,
+    which took place in WeMake from 03/07 to 17/07/2017.
     </p>
   <h2>Our core values</h2>
   <p>
@@ -61,7 +61,7 @@ topics:
 
 # dictionary keys for slick_slider.html include file
 slick:
-  description: ""
+  description: "Some moments from Allergo Kì’s <b>opencare Maker in Residence</b>"
   # pics:
   #   - pic: 'https://farm5.staticflickr.com/4211/34767438573_c6c73445d7_z_d.jpg'
   #   - pic: 'https://farm5.staticflickr.com/4217/35189199200_654c462308_z_d.jpg'
