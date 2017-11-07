@@ -7,17 +7,23 @@ lang: it
 ---
 
 <div class="row">
+  {% include description.html %}
+</div>
+
+<div class="row">
+  {% include video.html %}
+</div>
+
+<div class="row">
   {% include slick_slider.html %}
-  {% include release_notes.html %}
+	{% include release_notes.html %}
 </div>
+
 <div class="row">
-  {% include tutorials.html %}
+	{% include news.html %}
 </div>
+
 <div class="row">
-  {% include news.html %}
-  {% include contribute.html %}
-</div>
-<div class="row" style="no-border">
   {% include license.html %}
-  {% include credits.html %}
+  {% include contribute.html %}
 </div>
