@@ -25,7 +25,15 @@ header:
       link: "https://github.com/opencarecc/allergoki/wiki"
 
 # dictionary keys for description.html include file
-description: "Questa è la descrizione del progetto Allergo Kì"
+description: "<h3>Riconoscimenti</h3>
+    <p>
+      Questo sito racconta l'esperienza ed il progresso di <b>Allergo Kì</b> all'interno del programma <b>opencare Maker in Residence</b>,
+      che ha avuto luogo presso WeMake dal 03/07 al 17/07/2017.
+    </p>
+  <h2>I nostri valori fondamentali</h2>
+  <p>
+      Descrizione descrizione descrizione
+  </p>"
 
 # dictionary keys for video.html include file
 video:
@@ -49,7 +57,7 @@ topics:
 
 # dictionary keys for slick_slider.html include file
 slick:
-  description: ""
+  description: "Alcuni momenti della <b>opencare Maker in Residence</b> di Allergo Kì"
   # pics:
   #   - pic: 'https://farm5.staticflickr.com/4211/34767438573_c6c73445d7_z_d.jpg'
   #   - pic: 'https://farm5.staticflickr.com/4217/35189199200_654c462308_z_d.jpg'
