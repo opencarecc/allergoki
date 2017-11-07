@@ -12,8 +12,6 @@ lang: en
 ref: agile-kick-off-at-wemake
 ---
 
-THIS CONTENT NEEDS TO BE TRANSLATED
-
 # ALLERGO KÌ MANIFESTO
 
 ## Perché Allergo Kì?
