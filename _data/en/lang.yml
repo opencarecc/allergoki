@@ -110,13 +110,13 @@ tutorials:
 license:
   title: "Open Source"
   license_content_html: "<img src='https://opencarecc.github.io/breathinggames/assets/Open-Source-Initiative-logo.png'>
-  <p><b>reHub</b> is an <b>Open Source</b> project.</p>
+  <p><b>Allergo Kì</b> is an <b>Open Source</b> project.</p>
   <p><i>[The licence specifications will follow.]</i></p>"
 
 # dictionary keys for credits.html include file
 credits:
   title: "Credits"
-  credits_content_html: "This website is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project.
+  credits_content_html: "This website is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> and Allergo Kì as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project and as a result of the <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>.
                         <br><br>
                         This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 688670.
                         <br><br>
@@ -126,9 +126,9 @@ credits:
 contribute:
   title: "How to contribute"
   contribution_guidelines:
-    - guideline: "Contribute 1"
-    - guideline: "Contribute 2"
-    - guideline: "Contribute 3"
+    # - guideline: "Contribute 1"
+    # - guideline: "Contribute 2"
+    - guideline: "Do you want to contribute to the <b>Allergo Kì</b> project? Write to <a href='mailto:allergokistaff@wemake.cc'>allergokistaffstaff@wemake.cc</a> or leave a comment below!"
   more_link:
     - text: "Read more"
       link: "about"
@@ -139,7 +139,7 @@ contribute:
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "is maintained by <a href='https://opencare.cc'>opencarecc</a>"
+  credits_line_html: "is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> and Allergo Kì as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project and as a result of the <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 

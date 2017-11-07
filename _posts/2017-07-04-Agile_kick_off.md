@@ -3,7 +3,7 @@ layout: post
 title: "AllergoKi | AGILE kick off at WeMake"
 subtitle: lorem ipsum
 date: 2017-05-23 10:13:04 +0200
-image: "https://opencarecc.github.io/breathinggames/assets/RH-post-img-application.jpg"
+image: "https://opencarecc.github.io/allergoki/assets/AK-post-img-01.jpg"
 categories: ["news"]
 by: WeMake
 published: true
