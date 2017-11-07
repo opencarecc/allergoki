@@ -105,14 +105,14 @@ tutorials:
 # dictionary keys for license.html include file
 license:
   title: "Open Source"
-  license_content_html: "Software - <a href='https://www.gnu.org/licenses/gpl-3.0.en.html' target='_blank'>GNU General Public License</a>
-                        <br>
-                        Hardware - <a href='http://ohwr.org/cernohl' target='_blank'>CERN OHL v.1.2</a>"
+  license_content_html: "<img src='https://opencarecc.github.io/breathinggames/assets/Open-Source-Initiative-logo.png'>
+  <p><b>Allergo Kì</b> è un progetto <b>Open Source</b>.</p>
+  <p><i>[Seguiranno specifiche sulla licenza]</i></p>"
 
 # dictionary keys for credits.html include file
 credits:
   title: "Credits"
-  credits_content_html: "Questo sito è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> ed è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a>.
+  credits_content_html: "Questo sito è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> e Allero Kì ed è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> ed è risultato della <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>.
                         <br><br>
                         Questo progetto ha ricevuto fondi dal programma di ricerca e innovazione Horizon 2020 dell'Unione Europea, accordo numero 688670
                         <br><br>
@@ -122,9 +122,9 @@ credits:
 contribute:
   title: "Come contribuire al progetto"
   contribution_guidelines:
-    - guideline: "Contribuire 1"
-    - guideline: "Contribuire 2"
-    - guideline: "Contribuire 3"
+    # - guideline: "Contribuire 1"
+    # - guideline: "Contribuire 2"
+    - guideline: "Vuoi contribuire al progetto <b>Allergo Kì</b>? Scrivi a <a href='mailto:allergokistaff@wemake.cc'>allergokistaff@wemake.cc</a> o lascia un commento qui sotto!"
   more_link:
     - text: "Maggiori informazioni"
       link: "about"
@@ -135,7 +135,7 @@ contribute:
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "è curato da <a href='https://opencare.cc'>opencarecc</a>"
+  credits_line_html: "è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> e Allergo Kì, è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> ed è risultato della <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 
