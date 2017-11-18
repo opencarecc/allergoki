@@ -15,7 +15,7 @@ global:
 # dictionary keys for homeheader.html include file
 header:
   title: "Allergo Kì"
-  tagline: "vuole incentivare e rendere il pasto "fuori casa" un’esperienza piacevole per le persone con allergie alimentari"
+  tagline: "vuole incentivare e rendere il pasto 'fuori casa' un’esperienza piacevole per le persone con allergie alimentari"
   buttons:
     - text: "Vedi su GitHub"
       link: "https://github.com/opencarecc/allergoki"
