@@ -19,7 +19,7 @@ global:
 # dictionary keys for homeheader.html include file
 header:
   title: "Allergo Kì"
-  tagline: "Allergo Kì is a project by opencarecc"
+  tagline: "wants to incentivize and make the dinner at the restaurant a pleasant experience for those people who suffer from food allergies."
   buttons:
     - text: "View on GitHub"
       link: "https://github.com/opencarecc/allergoki"
@@ -36,7 +36,11 @@ description: "<h3>Acknowledgements</h3>
     </p>
   <h2>Our core values</h2>
   <p>
-    some text
+    The loss of information and the amount of oversights during the preparation of the meals may be very <b>dangerous</b> for the health of those who suffer from <b>food allergies or intolerances</b>.
+<br><br>
+Allergo Kì’s aim is to make clients’ management efficient, so that they could be served in the best way and without any <b>allergen contamination</b>.
+<br><br>
+Furthermore it allows to the person suffering from allergy / intolerance to <b>look for a restaurant</b> where food safety is guaranteed, with proper food and trained personnel; to choose the dish from the menu, the arrival time and place the order online.
   </p>"
 
 # dictionary keys for video.html include file
