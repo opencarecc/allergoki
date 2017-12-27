@@ -25,12 +25,7 @@ header:
       link: "https://github.com/opencarecc/allergoki/wiki"
 
 # dictionary keys for description.html include file
-description: "<h3>Riconoscimenti</h3>
-    <p>
-      Questo sito racconta l'esperienza ed il progresso di <b>Allergo Kì</b> all'interno del programma <b>opencare Maker in Residence</b>,
-      che ha avuto luogo presso WeMake dal 03/07 al 17/07/2017.
-    </p>
-  <h2>I nostri valori fondamentali</h2>
+description: "<h2>I nostri valori fondamentali</h2>
   <p>
       La perdita di informazioni e sviste nella preparazione di piatti o nel servizio può essere molto <b>pericolosa</b> per la salute di chi ha <b>allergie o intolleranze alimentari</b>.
 <br><br>
@@ -39,6 +34,13 @@ Allergo Kì ha l’obiettivo di rendere efficiente la gestione dei clienti con a
 Permette, inoltre, alla persona con allergia/intolleranza di <b>ricercare un ristorante</b> in cui viene garantita la sicurezza alimentare, con cibo adeguato e personale formato; scegliere dal menù la pietanza, l’ora di arrivo ed effettuare l’ordine online.
 
   </p>"
+
+# dictionary keys for acknowledgement.html include files
+acknowledgement: "<h3>Riconoscimenti</h3>
+    <p>
+      Questo sito racconta l'esperienza ed il progresso di <b>Allergo Kì</b> all'interno del programma <b>opencare Maker in Residence</b>,
+      che ha avuto luogo presso WeMake dal 03/07 al 17/07/2017.
+    </p>"
 
 # dictionary keys for video.html include file
 video:
