@@ -29,12 +29,7 @@ header:
       link: "https://github.com/opencarecc/allergoki/wiki"
 
 # dictionary keys for description.html include file
-description: "<h3>Acknowledgements</h3>
-    <p>
-      This website illustrates the experience and the progress of <b>Allergo Kì</b> within the <b>opencare Maker in Residence</b>,
-    which took place in WeMake from 03/07 to 17/07/2017.
-    </p>
-  <h2>Our core values</h2>
+description: "<h2>Our core values</h2>
   <p>
     The loss of information and the amount of oversights during the preparation of the meals may be very <b>dangerous</b> for the health of those who suffer from <b>food allergies or intolerances</b>.
 <br><br>
@@ -42,6 +37,13 @@ Allergo Kì’s aim is to make clients’ management efficient, so that they cou
 <br><br>
 Furthermore it allows to the person suffering from allergy / intolerance to <b>look for a restaurant</b> where food safety is guaranteed, with proper food and trained personnel; to choose the dish from the menu, the arrival time and place the order online.
   </p>"
+
+# dictionary keys for description.html include file
+  acknowledgement: "<h3>Acknowledgements</h3>
+      <p>
+        This website illustrates the experience and the progress of <b>Allergo Kì</b> within the <b>opencare Maker in Residence</b>,
+      which took place in WeMake from 03/07 to 17/07/2017.
+      </p>
 
 # dictionary keys for video.html include file
 video:
