@@ -21,8 +21,8 @@ header:
       link: "https://github.com/opencarecc/allergoki"
     - text: "Scarica .zip"
       link: "https://github.com/opencarecc/allergoki/zipball/master"
-    - text: "Costruisci!"
-      link: "https://github.com/opencarecc/allergoki/wiki"
+    - text: "Scopri!"
+      link: "http://allergoki.opencare.cc/about/"
 
 # dictionary keys for description.html include file
 description: "<h2>I nostri valori fondamentali</h2>
